@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\PeopleOOP\bin\Debug\PeopleOOP.exe.config
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\PeopleOOP\bin\Debug\PeopleOOP.exe
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\PeopleOOP\bin\Debug\PeopleOOP.pdb
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\PeopleOOP\obj\Debug\PeopleOOP.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\PeopleOOP\obj\Debug\PeopleOOP.frmPeople.resources
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\PeopleOOP\obj\Debug\PeopleOOP.Properties.Resources.resources
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\PeopleOOP\obj\Debug\PeopleOOP.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\PeopleOOP\obj\Debug\PeopleOOP.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\PeopleOOP\obj\Debug\PeopleOOP.exe
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\PeopleOOP\obj\Debug\PeopleOOP.pdb

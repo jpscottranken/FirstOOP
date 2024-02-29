@@ -1,0 +1,9 @@
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\ProductsMaintenance\bin\Debug\ProductsMaintenance.exe.config
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\ProductsMaintenance\bin\Debug\ProductsMaintenance.exe
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\ProductsMaintenance\bin\Debug\ProductsMaintenance.pdb
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\ProductsMaintenance\obj\Debug\ProductMaintenance.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\ProductsMaintenance\obj\Debug\ProductsMaintenance.Properties.Resources.resources
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\ProductsMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\ProductsMaintenance\obj\Debug\ProductMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\ProductsMaintenance\obj\Debug\ProductsMaintenance.exe
+C:\Users\jpscott\Desktop\FIrstOOP\PeopleOOP\ProductsMaintenance\obj\Debug\ProductsMaintenance.pdb
